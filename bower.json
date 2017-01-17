@@ -8,7 +8,7 @@
     "detectmobilebrowser.js"
   ],
   "dependencies": {
-    "jquery": "1.11.*"
+    "jquery": "1.11 - 3"
   },
   "keywords": [
     "detect",
